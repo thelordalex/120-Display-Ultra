@@ -1,3 +1,5 @@
+![120@DisplayUltra](https://github.com/thelordalex/120-Display-Ultra/blob/main/120%40DisplayUltra.jpg)
+
 # 120@Display-Ultra
 
 **Version:** 1.0  
