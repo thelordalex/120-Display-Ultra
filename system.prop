@@ -1,0 +1,51 @@
+# Increase touch responsiveness
+ro.min_pointer_dur=8
+ro.max_fling_velocity=12000
+ro.min_fling_velocity=8000
+
+# Boost GPU performance
+debug.performance.tuning=1
+video.accelerate.hw=1
+ro.config.enable.hw_accel=true
+ro.sf.lcd_density=280
+
+# Copyright to script programming by @uusergram
+
+# Improve frame rate and stability
+persist.sys.ui.hw=1
+persist.sys.ui.rendering_mode=normal
+ro.surface_flinger.max_frame_buffer_acquired_buffers=3
+ro.hardware.vsync=1
+debug.egl.swapinterval=0
+
+# Set fixed frame rates
+ro.sf.frame_rate=120
+ro.sf.default_refresh_rate=120
+ro.sf.implicit_refresh_rate=120
+
+# Copyright to script programming by @uusergram
+
+# Enhance scrolling performance
+ro.scroll.friction=0.005
+ro.scroll.responsiveness=1
+ro.hwui.text_cache_height=2048
+
+# Optimize display and touch settings
+persist.sys.scrollingcache=3
+persist.sys.display_density=420
+ro.config.vc_touch_aware=true
+ro.sf.hwrotation=0
+
+# Game Mode Enhancements
+ro.game_mode.performance=1
+ro.game_mode.force_high_refresh=1
+ro.gaming.fps_mode=1
+
+# Copyright to script programming by @uusergram
+
+# Disable unnecessary logging
+debug.sf.hw=1
+log.tag.WifiModeSelector=ERROR
+log.tag.Sensors=ERROR
+
+# Copyright to script programming by @uusergram
